@@ -25,7 +25,5 @@ public class Q22 {
         myWindow.setTitle("Window of "+W+" width, "+H+" height.");
         myWindow.setVisible(true);
         myWindow.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
-
     }
 }
